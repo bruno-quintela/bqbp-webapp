@@ -1,0 +1,1 @@
+{"name":"bqbp-webapp","tagline":"my custom boilerplate (h5bp + grunt + bower + wiredep + normalize.css)","body":"how to make it work:\r\n\r\n$ npm install -g yo\r\n$ npm install\r\n$ grunt bowerInstall","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
