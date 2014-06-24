@@ -9,6 +9,6 @@
 
 // Preview button configuration
   "preview": {
-        "preview (Proj1 demo)": "http://{{domain}}:9000/"
+        "live preview": "http://{{domain}}:9000/"
   }
 }
